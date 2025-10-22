@@ -11,11 +11,15 @@ text-align: center;
     flex-wrap:wrap;
  } /* condensed to save space */
 .project {
-    height: 100px;
-    width: 10%;
+    width: 30%;
     margin: 10px;
     padding: 20px 10px;
     background: white;
     border-radius: 25%;
+}
+.project img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
 }
 
