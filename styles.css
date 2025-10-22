@@ -11,16 +11,10 @@ text-align: center;
     flex-wrap:wrap;
  } /* condensed to save space */
 .project {
-width: 30%;
-margin: 10px;
-padding: 20px 10px;
-background: white;
-border-radius: 25%;
+    width: 30%;
+    margin: 10px;
+    padding: 20px 10px;
+    background: white;
+    border-radius: 25%;
 }
-.project {
-width: 30%;
-margin: 10px;
-padding: 20px 10px;
-background: white;
-border-radius: 25%;
-}
+
